@@ -202,25 +202,7 @@ Sep 2024 – Present
 - 📘 **Infosys Springboard** — Java Full Stack Development Course with Agile Methodology
 - 🍃 **MongoDB** — Certified Developer
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vijayathithan2&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" 
-    alt="Vijayathithan's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayathithan2&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" 
-    alt="Vijayathithan's Top Languages"
-  />
-</p>
-
----
 # 🎯 Current Focus
 
 ```text
