@@ -204,18 +204,23 @@ Sep 2024 – Present
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vijayathithan2&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" 
+    alt="Vijayathithan's GitHub Stats"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijayathithan2&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayathithan2&layout=compact&hide_border=true" height="170"/>
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayathithan2&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" 
+    alt="Vijayathithan's Top Languages"
+  />
 </p>
 
 ---
-
 # 🎯 Current Focus
 
 ```text
