@@ -1,270 +1,230 @@
-::: {align="center"}
+# 👋 Hi, I'm Vijayathithan M
 
-Hi, I'm Vijayathithan M 👋
+### 💻 Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast
 
-Computer Science Engineering Student • Full-Stack Developer • Applied AI Enthusiast
+I'm a Computer Science Engineering student at **Rajalakshmi Institute of Technology, Chennai**, focused on **Full-Stack Development and Applied AI**.
 
-<p>
+I enjoy building practical applications that combine modern web technologies, AI, cloud platforms, and emerging technologies. 🚀
 
-<a href="https://github.com/vijayathithan2">{=html}
-<img src="https://img.shields.io/badge/GitHub-vijayathithan2-181717?style=for-the-badge&logo=github" alt="GitHub">{=html}
-</a>{=html}
-<a href="https://www.linkedin.com/in/vijayathithan-m">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Vijayathithan%20M-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">{=html}
-</a>{=html}
-<img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Java Spring Boot">{=html}
-<img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Next.js">{=html}
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">{=html}
+---
 
-</p>
+## 👨‍💻 About Me
 
-:::
+- 🎓 B.E. Computer Science & Engineering — Rajalakshmi Institute of Technology
+- 💻 Interested in Full-Stack Development, AI, Cloud & Emerging Technologies
+- 🚀 Passionate about building real-world software solutions
+- 🤝 Experienced in hackathons, team projects and collaborative development
+- 🌱 Currently improving my skills in Java, Spring Boot, React, Next.js and Firebase
 
-👨‍💻 About Me
+---
 
-I'm a Computer Science Engineering student at Rajalakshmi Institute of
-Technology, Chennai, focused on full-stack development and applied
-AI.
+## 🛠️ Tech Stack
 
-I enjoy turning ideas into practical software --- from AI-powered
-student platforms and healthcare analytics to quantum cryptography
-prototypes and IoT monitoring systems.
+### 💻 Languages & Frameworks
 
-🎓 B.E. Computer Science & Engineering --- Rajalakshmi Institute
-of Technology
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-💻 Focus: Full-Stack Development, AI, Cloud & Emerging
-Technologies
+### 🗄️ Databases & Cloud
 
-🚀 Interested in building practical, scalable and user-focused
-applications
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-🤝 Comfortable working in collaborative hackathon and project
-environments
+### 🔧 Tools & Platforms
 
-🌱 Currently strengthening my skills in Java, Spring Boot, React,
-Next.js, Firebase and AI
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-🛠️ Tech Stack
+### 🤖 AI / Data / Emerging Tech
 
-Languages & Frameworks
+- 🤖 Gemini
+- 🧠 LLaMA 3.3 70B
+- 📊 XGBoost
+- 📈 LightGBM
+- 🔍 SHAP
+- ⚛️ Qiskit
+- 🔢 NumPy
+- 🧮 SciPy
+- 📊 Power BI
+- 📉 Matplotlib
+- 🚀 FastAPI
 
-<p>
+---
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,spring,nodejs,html,css" alt="Languages and frameworks">{=html}
+# 🚀 Featured Projects
 
-</p>
+## ⚛️ **QuBitX — Quantum Digital Signature System**
 
-Databases & Cloud
+**Quantathon 2026**
 
-<p>
+A quantum digital signature prototype using **quantum teleportation and Bell-state entanglement** for secure signature exchange.
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases and cloud">{=html}
+**Tech Stack:** Qiskit • NumPy • SciPy • FastAPI • React
 
-</p>
+- 🔐 Quantum-based secure signature exchange
+- ⚛️ Quantum operations and Bell-state entanglement
+- ✅ Measurement-based signature verification
+- 📊 Statistical analysis for verification
+- 🧪 Built and tested using quantum simulation
 
-Tools & Platforms
+---
 
-<p>
+## 🏥 **CARESYNC AI+ — Critical Patient Monitoring & Response Intelligence System**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,pycharm" alt="Development tools">{=html}
+**NeuralZenathon 2026**
 
-</p>
+An AI-powered patient monitoring system that analyzes clinical indicators to identify high-risk patients and support timely intervention.
 
-<p>
+**Tech Stack:** Next.js • Firebase • XGBoost • LightGBM • SHAP • Gemini
 
-<b>{=html}Also used:</b>{=html} Firebase Firestore • Power BI •
-Matplotlib • Qiskit • NumPy • SciPy • FastAPI • Gemini • Groq
+- 🩺 AI-powered patient risk analysis
+- 📊 Predictive modeling using XGBoost and LightGBM
+- 🔍 SHAP-based model explainability
+- 🔥 Firebase-powered application architecture
+- 🤖 Gemini integration for intelligent assistance
 
-</p>
+---
 
-🧰 My Development Environment
+## 🚛 **Bin2Route — Smart Garbage Truck Monitoring System**
 
-These are some of the tools I regularly use while building and testing
-projects.
+**Bionovathon 2025**
 
-GitHub for version control and collaboration • Git for source
-control • Firebase for cloud services and application backends •
-Postman for API testing
+An IoT-based platform for real-time garbage truck tracking and collection monitoring using GPS and web technologies.
 
+**Tech Stack:** IoT • GPS • Web Technologies
 
+- 📍 Real-time vehicle tracking
+- 🚛 Garbage collection monitoring
+- 🗺️ Route monitoring and optimization
+- 📊 Centralized monitoring dashboard
+- ♻️ Designed to improve waste-management efficiency
 
-🚀 Featured Projects
+---
 
-01. QuBitX --- Quantum Digital Signature System
+## 🧭 **Skill GPS — AI-Powered Student Career & Skill Platform**
 
-Quantathon 2026
+**Designathon 1.0 — 2026**
 
-A quantum digital signature prototype based on quantum teleportation
-and Bell-state entanglement for secure signature exchange.
+A full-stack AI platform that analyzes academic performance, coding activity, GitHub contributions and skills to generate personalized career roadmaps.
 
-Tech: Qiskit • NumPy • SciPy • FastAPI • React
+**Tech Stack:** Next.js • React • Node.js • Firebase • Groq • LLaMA 3.3 70B
 
-Implemented quantum operations and measurement-based verification
+- 🧠 AI Career Mentor
+- 🗺️ Personalized Career Roadmaps
+- 📄 ATS Resume Optimizer
+- 💻 Coding & Aptitude Trainers
+- 🧬 Skill DNA Analytics
+- 📊 Academic and coding activity tracking
+- 🔗 GitHub contribution analysis
 
-Added statistical analysis for signature verification
+---
 
-Explored practical simulation of quantum cryptographic concepts
+## 🏛️ **Digital Subsidy & Grant Management System**
 
-02. CARESYNC AI+ --- Critical Patient Monitoring & Response Intelligence System
+**Infosys Springboard — Software Development Internship**
 
-NeuralZenathon 2026
+A digital platform for managing beneficiary applications, verification, tracking and staged fund disbursement.
 
-An AI-powered patient monitoring system designed to analyze clinical
-indicators and identify high-risk patients to support timely
-intervention.
+**Tech Stack:** Spring Boot • React • MySQL • REST APIs
 
-Tech: Next.js • Firebase • XGBoost • LightGBM • SHAP • Gemini
+- 📝 Digital beneficiary applications
+- 🔎 Multi-stage application verification
+- 📊 Application status tracking
+- 💰 Staged fund-disbursement workflow
+- 🔗 REST API-based backend
+- 🗄️ Relational database management
+- 👨‍💼 Beneficiary and administrator interfaces
 
-Predictive models for patient risk analysis
+---
 
-SHAP-based explainability for model outputs
+# 📊 What I Work With
 
-Firebase-powered application architecture
+| 🔹 Area | 🛠️ Technologies |
+|---|---|
+| **Backend** | Java, Spring Boot, REST APIs, Node.js |
+| **Frontend** | React, Next.js, HTML, CSS, JavaScript |
+| **Databases** | MySQL, MongoDB, Firebase Firestore |
+| **AI / ML** | XGBoost, LightGBM, SHAP, Gemini, LLaMA |
+| **Quantum** | Qiskit, Quantum Teleportation, Bell States |
+| **Data & Analytics** | Power BI, Matplotlib, NumPy, SciPy |
+| **Tools** | Git, GitHub, Firebase, Postman, VS Code, IntelliJ IDEA, PyCharm |
 
-03. Bin2Route --- Smart Garbage Truck Monitoring System
+---
 
-Bionovathon 2025
+# 🏆 Achievements
 
-An IoT-based platform for real-time garbage truck tracking and
-collection monitoring using GPS and web technologies.
+- 🏅 **Technical Event Finalist — Protospark 26**
+- 🏆 **Hackathon Finalist — Quantathon 26**
+- 🚀 Participated in multiple technical hackathons and project-based development activities
 
-Tech: IoT • GPS • Web Technologies
+---
 
-Centralized dashboard for live vehicle tracking
+# 💼 Experience
 
-Route monitoring and optimization
+### 💻 **Software Development Intern — Infosys Springboard**
 
-Designed to support more efficient waste-management operations
+**Jul 2026 – Sep 2026**
 
-04. Skill GPS --- AI-Powered Student Career & Skill Platform
+Worked on a digital subsidy and grant management platform using **Spring Boot, React and MySQL**.
 
-Designathon 1.0 --- 2026
+- 🔧 Developed REST APIs for application processing
+- 📝 Built application and approval workflows
+- 🔎 Implemented verification and tracking processes
+- 💰 Designed staged fund-disbursement workflows
+- 🎨 Built responsive React interfaces
 
-A full-stack AI platform that analyzes academic performance, coding
-activity, GitHub contributions and skills to generate personalized
-career roadmaps.
+---
 
-Tech: Next.js • React • Node.js • Firebase • Groq • LLaMA 3.3 70B
+# 🎓 Education
 
-AI Career Mentor
+### 🏫 **Rajalakshmi Institute of Technology, Chennai**
 
-ATS Resume Optimizer
+**B.E. Computer Science and Engineering**  
+Sep 2024 – Present
 
-Coding & aptitude trainers
+**CGPA:** 7.7 / 10
 
-Skill DNA analytics
+---
 
-Personalized career roadmap generation
+# 📜 Certifications
 
-05. Digital Subsidy & Grant Management System
+- 📘 **Infosys Springboard** — Java Full Stack Development Course with Agile Methodology
+- 🍃 **MongoDB** — Certified Developer
 
-Infosys Springboard --- Software Development Internship
+---
 
-An enterprise-oriented platform for managing beneficiary applications,
-verification, tracking and staged fund disbursement.
-
-Tech: Spring Boot • React • MySQL • REST APIs
-
-Application processing and approval workflows
-
-Relational database workflows
-
-Responsive beneficiary and administrator interfaces
-
-Application status and fund-disbursement tracking
-
-📊 What I Work With
-
-Area                                Technologies
-
-Backend                         Java, Spring Boot, REST APIs,
-Node.js
-
-Frontend                        React, Next.js, HTML, CSS,
-JavaScript
-
-Databases                       MySQL, MongoDB, Firebase Firestore
-
-AI / ML                         XGBoost, LightGBM, SHAP, Gemini,
-LLaMA
-
-Quantum                         Qiskit, quantum teleportation,
-Bell-state concepts
-
-Data & Analytics                Power BI, Matplotlib, NumPy, SciPy
-
-🏆 Achievements
-
-🥇 Technical Event Finalist --- Protospark 26
-
-🏆 Hackathon Finalist --- Quantathon 26
-
-🚀 Participated in multiple technical hackathons and project-based
-development activities
-
-💼 Experience
-
-Software Development Intern --- Infosys Springboard
-
-Jul 2026 -- Sep 2026
-
-Worked on a digital subsidy and grant management platform using Spring
-Boot, React and MySQL, covering application processing, verification,
-tracking and staged fund disbursement.
-
-🎓 Education
-
-Rajalakshmi Institute of Technology, Chennai
-B.E. Computer Science and Engineering • Sep 2024 -- Present
-
-CGPA: 7.7 / 10
-
-📜 Certifications
-
-Infosys Springboard --- Java Full Stack Development Course with
-Agile Methodology
-
-MongoDB --- Certified Developer
-
-📈 GitHub
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijayathithan2&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayathithan2&layout=compact&hide_border=true" alt="Top Languages">{=html}
+<img src="https://github-readme-stats.vercel.app/api?username=vijayathithan2&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayathithan2&layout=compact&hide_border=true" height="170"/>
 
 </p>
 
-🎯 Current Focus
+---
 
-Full-Stack Development
+# 🎯 Current Focus
+
+```text
+💻 Full-Stack Development
         ↓
-Java + Spring Boot + React / Next.js
+☕ Java + Spring Boot + React / Next.js
         ↓
-Firebase + Databases + REST APIs
+🔥 Firebase + Databases + REST APIs
         ↓
-Applied AI & Intelligent Applications
+🤖 Applied AI & Intelligent Applications
         ↓
-Exploring Quantum Computing & Emerging Technologies
-
-📫 Connect With Me
-
-<p>
-
-<a href="mailto:adhi822007@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-adhi822007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">{=html}
-</a>{=html}
-<a href="https://www.linkedin.com/in/vijayathithan-m">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Vijayathithan%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">{=html}
-</a>{=html} <a href="https://github.com/vijayathithan2">{=html}
-<img src="https://img.shields.io/badge/GitHub-vijayathithan2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">{=html}
-</a>{=html}
-
-</p>
-
-::: {align="center"}
-
-Building • Learning • Experimenting • Shipping 🚀
-
-:::
+⚛️ Quantum Computing & Emerging Technologies
